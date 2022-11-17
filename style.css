@@ -21,7 +21,7 @@ body {
 }
 
 .results {
-  margin-top: 15px;
+  margin-top: 14px;
   display: grid;
   justify-content: center;
   grid-template-columns: repeat(2, 1fr);
